@@ -1,2 +1,2 @@
-print("Thsi is a new feature")
+print("This is a new feature")
 print("Feature added online")
